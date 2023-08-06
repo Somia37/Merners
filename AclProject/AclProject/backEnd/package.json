@@ -1,0 +1,34 @@
+{
+  "name": "backEnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^4.0.0",
+    "antd": "^4.17.4",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "pcf-start": "^1.6.5",
+    "prop-types": "^15.7.2",
+    "react-icons": "^4.3.1",
+    "react-stripe-checkout": "^2.6.3",
+    "stripe": "^8.194.0",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.12",
+    "v4": "0.0.1"
+  }
+}
